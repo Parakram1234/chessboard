@@ -1,0 +1,31 @@
+.one
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.a1
+{
+    background-color: white;
+    width: 187px;
+    height: 120px;
+}
+.a2
+{
+    background-color: black;
+    width: 187px;
+    height: 120px;
+}
+.a1 span i
+{
+    font-size: 50px;
+    color: black;
+    margin: 28px 54px;
+}
+.a2 span i
+{
+    font-size: 50px;
+    color: white;
+    margin: 28px 54px;
+}
